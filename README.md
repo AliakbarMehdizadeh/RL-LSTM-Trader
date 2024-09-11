@@ -15,6 +15,5 @@ This project leverages Reinforcement Learning and LSTM to develop trading strate
 ## Usage
 1. Clone the repository.
 2. Run `pip3 install -r requirements.txt`.
-3. Get your credentials from [Reddit](https://www.reddit.com/prefs/apps) and add them to `credentials.py`.
 4. Edit `config.py`.
 5. Run `python main.py`.
