@@ -1,4 +1,4 @@
-# Trading Strategy with Reinforcement Learning and LSTM
+# Trading with Reinforcement Learning and LSTM
 
 ## Overview
 This project leverages Reinforcement Learning and LSTM to develop trading strategy using historical stock data. The environment for trading is built using OpenAI's Gym library, and technical indicators are incorporated using the TA-Lib library. The goal is to train an RL model to optimize trading decisions and maximize portfolio value.
